@@ -2,7 +2,7 @@
 
 Welcome to the debt management game! In this game you have to manage a series of debt accounts. Each round, you are given some amount of money and you get to decide how much money to put into each debt account. When you launch the game you get to decide how many debt accounts there are. Then, you say how much debt you want in each account and its interest rate. You also decide how much money you receive each round, and can even choose to receive a bonus in certain rounds. The program uses tkinter for the GUI and Matplotlib to create the graph.
 
-This project is made from the following files .py files:
+This project is made from the following .py files:
 1. DebtGame
    * The main file that creates and runs the game. Creates and updates the GUI with tkinter
 2. account
